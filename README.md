@@ -3,7 +3,7 @@ A marquee label for react-native
 
 ## Installation
 ```sh
-npm install @remobile/react-native-marquee-label --save
+npm install @zss0512/react-native-marquee-label --save
 ```
 
 ### Installation (iOS)
